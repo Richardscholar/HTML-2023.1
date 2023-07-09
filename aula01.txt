@@ -1,0 +1,25 @@
+usar o notepad
+
+falando sobre as tags do html
+
+comando
+e
+conteudo
+<>
+h
+
+corpo principal da pagina
+
+<html> corpo da pagina
+<head> cabeçario da pagina comandos de configurações do documento
+<body> corpo da pagina para inserir conteudo elementos visivies que o compoe
+<title> adicionar titulos a paginas dentro do head
+<br> quebra de linha(não precisa fechar o comando)
+
+nãe e bom deixar conteudo solto dentro do body
+
+<h1> são os titulos dentro da pagina faz quebra de linha automatica
+definição de hierarquia
+vai ate o h6 e são subtitulos um do outro
+
+<p> criação de paragrafos adiciona quebra de linha automaticamente
