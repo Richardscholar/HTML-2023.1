@@ -1,0 +1,35 @@
+
+Listas
+
+Ordenada: são listas de sequencia exemplo numeros letras e etc
+
+não ordenada: são representadas por figuras marcadores exemplo bolinhas quadrados e etc
+
+<ul> usado para construir listas não ordenadas
+<ol> usado para construir listas ordenadas
+<li> colocar os elementos dentro da lista que serve para listar(não precisa fechar o comando)
+
+parametros: servem para mudar a forma original do comando
+
+no casos das listas ordenads possuem 3(isso vai servir para mudar a configuração da lista)
+
+type=""(usado para inserir os parametros)
+
+= valor de atribuição
+parametros das não ordenadas
+square = e o quadrado da lista
+circle = e o circulo da lista
+disk = bolinha padrão
+
+<!-texto-> usado para inserir comentario
+
+parametros ordenados
+
+i = são usados para ordenar os numeros romanos minusculos
+I = são usados para ordenar os numeros romanos em maiusculos
+a = são usados para ordenar com letras minusculas
+A = são usados para ordenar com letras maiusculas
+1 = numeral padrao
+
+start=""(usado para dar inicio de onde quer começar a lista ex: a partir do numero 10)
+start nao trabalha com as não ordenadas
