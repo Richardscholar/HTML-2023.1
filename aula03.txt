@@ -1,0 +1,42 @@
+lista de definição: podem ser usadas com textos grandes mas não possuem marcação
+possui titulo e uma descrição para o titulo
+
+<dt> definição de titulo
+<dd> definição de descrição
+<dl> lista de definição
+
+se não fechar corretamente o codigo não executado e nao e lido
+
+metatags: são tags de configurações do documento
+exemplo
+definições de palavras chaves
+descrição so site
+autor
+conteudo do site
+atualização do site
+paginas de caracteres do site
+
+colocadas dentro do head
+
+<meta name="author" content="fulano"> são colados o autor, a descrição ou palavras chaves do site e no content indica quem ou que é da pagina
+<meta name="description" content="esta pagina foi criada para teste"> aparece uma descrição da pagina no mecanismo de busca
+<meta name="keywords" contents="aula, curso, html"> que os sites de busca utilizam para encontrar dentro da pagina do site ao inves de procurar no dicumento inteiro
+
+<meta http-equiv="Refresh" content="3;teste.html"> serve para atualizar a pagina de um determinado tempo
+usando o ; dentro do content depois que definir o intervalo de tempo posso chamer um outro arquivo html
+tempo repreentado em segundos
+posso chamar um site tambem usando o http:// eo nome do site
+exemplo o site do google
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"> ele vai permitir com que converta os texto dos idiomas dos paises pela tabela de caracteres deles
+ou seja vai ter alguns caracteres que não vai ser lido
+charset: tabela de html
+
+tipos
+
+utf-8 não le os caracteres com ã ç
+iso-8859-1 consegue ler
+
+isso acontece quando tem paginas de outros paises que não possuem ou reconhece esses caracteres
+
+browser ja configurado
